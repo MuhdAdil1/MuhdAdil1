@@ -61,7 +61,7 @@ Other        30 mins         ▓░░░░░░░░░░░░░░░░
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://xinetzone.github.io/ColoredBadges/svg/dev/languages/csharp.svg">
+    <img alt="C" src="https://xinetzone.github.io/ColoredBadges/svg/dev/languages/c.svg">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
