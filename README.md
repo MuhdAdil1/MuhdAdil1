@@ -44,7 +44,7 @@ Hi, I'm Muhammed Adil a passionate self-taught front end web developer and a BE 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 9 mins    █████████████████████▒░░░   49.10 %
+ReactJS   3 hrs 9 mins    █████████████████████▒░░░   49.10 %
 CSS          1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   20.49 %
 HTML         1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   25.27 %
 Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   6.87 %
