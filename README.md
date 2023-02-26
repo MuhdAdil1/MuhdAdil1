@@ -86,6 +86,10 @@ Other        30 mins         ▓░░░░░░░░░░░░░░░░
 	<a href="https://www.w3schools.com/react/" target="_blank">
     <img alt="React" src="https://xinetzone.github.io/ColoredBadges/svg/dev/frameworks/react.svg">
   </a> 
+	</a> 
+	<a href="https://www.w3schools.com/react/" target="_blank">
+    <img alt="React" src="https://xinetzone.github.io/ColoredBadges/svg/dev/frameworks/bootstrap.svg">
+  </a> 
 	
 </p>
 
