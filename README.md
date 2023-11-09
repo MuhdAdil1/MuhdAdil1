@@ -7,12 +7,6 @@
 	<img align="left" width="100px" src="https://camo.githubusercontent.com/03349e24df834fcc80bcf1c1d5058b9b6e075b878936d8854279376c95707821/68747470733a2f2f78696e65747a6f6e652e6769746875622e696f2f436f6c6f7265644261646765732f7376672f736f6369616c2f676d61696c2e737667" alt="Muhd Adil's Gmail"/>
 </a>
 	
-<a href="https://discord.gg/REEPERx">
-  <img align="left" alt="Muhd Adil's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/MuhdAdi32605097/">
-  <img align="left" alt="Muhd Adil | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="www.linkedin.com/in/muhd-adil-b0b43a217/">
   <img align="left" alt="Muhd Adil's LinkedIN" width="130px"src="https://camo.githubusercontent.com/6a0ddf5dcb2887756dd232853dde26dc30c106c312396b282f9b093fe2a1ca36/68747470733a2f2f78696e65747a6f6e652e6769746875622e696f2f436f6c6f7265644261646765732f7376672f736f6369616c2f6c696e6b6564696e2e737667" />
 </a>
