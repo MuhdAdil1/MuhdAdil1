@@ -71,6 +71,10 @@ Other        30 mins         ▓░░░░░░░░░░░░░░░░
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://xinetzone.github.io/ColoredBadges/svg/dev/languages/java.svg">
   </a>
+	&emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://xinetzone.github.io/ColoredBadges/svg/dev/languages/python.svg">
+  </a>
 </p>
 
 ### 👉 Frontend Development
