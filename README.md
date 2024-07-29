@@ -9,7 +9,8 @@
 </a>
 	
 <a href="www.linkedin.com/in/muhd-adil-b0b43a217/">
-  <img align="left" alt="Muhd Adil's LinkedIN" width="130px"src="https://camo.githubusercontent.com/6a0ddf5dcb2887756dd232853dde26dc30c106c312396b282f9b093fe2a1ca36/68747470733a2f2f78696e65747a6f6e652e6769746875622e696f2f436f6c6f7265644261646765732f7376672f736f6369616c2f6c696e6b6564696e2e737667" />
+  <img align="left" alt="Muhd Adil's LinkedIN" width= "70px"
+    height= "50px" src="https://github.com/twbs/icons/blob/9ee0d1937adbb827d1c984ba38c50ac70becf8da/icons/linkedin.svg#L2" />
 </a>
 
 <p align="right"> 
