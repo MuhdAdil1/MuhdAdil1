@@ -90,6 +90,10 @@ Other                  30 mins         ▓░░░░░░░░░░░░�
 	<a href="https://www.w3schools.com/react/" target="_blank">
     <img alt="React" src="https://xinetzone.github.io/ColoredBadges/svg/dev/frameworks/bootstrap.svg">
   </a> 
+  <a href="www.linkedin.com/in/muhd-adil-b0b43a217/">
+  <img align="left" alt="Muhd Adil's LinkedIN" width= "70px"
+    height= "50px" src="https://github.com/simple-icons/simple-icons/blob/6f2848d65b99de8d93f31c6c8a347a873168edaa/icons/php.svg#L1" />
+</a>
 	
 </p>
 
