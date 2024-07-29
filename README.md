@@ -73,7 +73,7 @@ Other                  30 mins         ▓░░░░░░░░░░░░�
   </a>
 </p>
 
-### 👉 Frontend Development
+### 👉 Web Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
