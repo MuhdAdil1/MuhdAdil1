@@ -93,13 +93,15 @@ Other                  30 mins         ▓░░░░░░░░░░░░�
 	
 </p>
 
- ### 👉 IDEs
+ ### 👉 Tools
  
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /></a>
+   &emsp;
+    <a href="#"><img alt="Eclipse" src="https://github.com/xinetzone/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" /></a>
 </p>
 
 
