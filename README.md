@@ -1,7 +1,8 @@
 ## Hi There👋, 
 
 <a href="https://www.instagram.com/_.muhd_adil._/">
-  <img align="left" width="100px" alt="Muhd Adil's Instagram" width="130px"src="https://github.com/twbs/icons/blob/9ee0d1937adbb827d1c984ba38c50ac70becf8da/icons/instagram.svg#L2" />
+  <img align="left"     width= "70px"
+    height= "50px" alt="Muhd Adil's Instagram" src="https://github.com/twbs/icons/blob/9ee0d1937adbb827d1c984ba38c50ac70becf8da/icons/instagram.svg#L2" />
 </a>
 <a href="mailto:muhdadil110@gmail.com">
 	<img align="left" width="70px" height="70px" src="https://camo.githubusercontent.com/03349e24df834fcc80bcf1c1d5058b9b6e075b878936d8854279376c95707821/68747470733a2f2f78696e65747a6f6e652e6769746875622e696f2f436f6c6f7265644261646765732f7376672f736f6369616c2f676d61696c2e737667" alt="Muhd Adil's Gmail"/>
